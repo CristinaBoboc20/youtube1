@@ -33,3 +33,10 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
+
+export const demoThumbnailUrl = 'https://i3.ytimg.com/vi/jh4C7w-dvho/maxresdefault.jpg';
+export const demoChannelUrl = '/channel/UC84t1K5ri-7u9bFCaUKTXDA';
+export const demoVideoUrl = '/video/0L38Z9hIi5s';
+export const demoChannelTitle = 'Relaxing Jazz Piano';
+export const demoVideoTitle = 'A Rainy Day in 4K Cozy Coffee Shop ❄ Background Instrumental to Relax, Study, Work';
+export const demoProfilePicture = 'https://yt3.googleusercontent.com/bs0bgY2wUFMrlILPm4x_XLL8AmrPyp8ftp7D-gX_CdJY2WtwmC7OBF-psxxcVyuQwTpMNcQelQ=s88-c-k-c0x00ffffff-no-rj'
