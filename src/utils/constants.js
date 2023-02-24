@@ -34,9 +34,9 @@ export const categories = [
 ];
 
 
-export const demoThumbnailUrl = 'https://i3.ytimg.com/vi/jh4C7w-dvho/maxresdefault.jpg';
-export const demoChannelUrl = '/channel/UC84t1K5ri-7u9bFCaUKTXDA';
-export const demoVideoUrl = '/video/0L38Z9hIi5s';
-export const demoChannelTitle = 'Relaxing Jazz Piano';
-export const demoVideoTitle = 'A Rainy Day in 4K Cozy Coffee Shop ❄ Background Instrumental to Relax, Study, Work';
-export const demoProfilePicture = 'https://yt3.googleusercontent.com/bs0bgY2wUFMrlILPm4x_XLL8AmrPyp8ftp7D-gX_CdJY2WtwmC7OBF-psxxcVyuQwTpMNcQelQ=s88-c-k-c0x00ffffff-no-rj'
+export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
+export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
+export const demoVideoUrl = '/video/GDa8kZLNhJ4';
+export const demoChannelTitle = 'JavaScript Mastery';
+export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
+export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
